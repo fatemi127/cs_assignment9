@@ -1,0 +1,9 @@
+c:\users\hossein\documents\visual studio 2013\Projects\uni\b_u_t_calc\b_u_t_calc\bin\Debug\b_u_t_calc.exe.config
+c:\users\hossein\documents\visual studio 2013\Projects\uni\b_u_t_calc\b_u_t_calc\bin\Debug\b_u_t_calc.exe
+c:\users\hossein\documents\visual studio 2013\Projects\uni\b_u_t_calc\b_u_t_calc\bin\Debug\b_u_t_calc.pdb
+c:\users\hossein\documents\visual studio 2013\Projects\uni\b_u_t_calc\b_u_t_calc\obj\Debug\b_u_t_calc.csprojResolveAssemblyReference.cache
+c:\users\hossein\documents\visual studio 2013\Projects\uni\b_u_t_calc\b_u_t_calc\obj\Debug\b_u_t_calc.Form1.resources
+c:\users\hossein\documents\visual studio 2013\Projects\uni\b_u_t_calc\b_u_t_calc\obj\Debug\b_u_t_calc.Properties.Resources.resources
+c:\users\hossein\documents\visual studio 2013\Projects\uni\b_u_t_calc\b_u_t_calc\obj\Debug\b_u_t_calc.csproj.GenerateResource.Cache
+c:\users\hossein\documents\visual studio 2013\Projects\uni\b_u_t_calc\b_u_t_calc\obj\Debug\b_u_t_calc.exe
+c:\users\hossein\documents\visual studio 2013\Projects\uni\b_u_t_calc\b_u_t_calc\obj\Debug\b_u_t_calc.pdb

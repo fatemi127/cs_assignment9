@@ -1,0 +1,9 @@
+c:\users\hossein\documents\visual studio 2013\Projects\uni\guess_number\guess_number\bin\Debug\guess_number.exe.config
+c:\users\hossein\documents\visual studio 2013\Projects\uni\guess_number\guess_number\bin\Debug\guess_number.exe
+c:\users\hossein\documents\visual studio 2013\Projects\uni\guess_number\guess_number\bin\Debug\guess_number.pdb
+c:\users\hossein\documents\visual studio 2013\Projects\uni\guess_number\guess_number\obj\Debug\guess_number.csprojResolveAssemblyReference.cache
+c:\users\hossein\documents\visual studio 2013\Projects\uni\guess_number\guess_number\obj\Debug\guess_number.Form1.resources
+c:\users\hossein\documents\visual studio 2013\Projects\uni\guess_number\guess_number\obj\Debug\guess_number.Properties.Resources.resources
+c:\users\hossein\documents\visual studio 2013\Projects\uni\guess_number\guess_number\obj\Debug\guess_number.csproj.GenerateResource.Cache
+c:\users\hossein\documents\visual studio 2013\Projects\uni\guess_number\guess_number\obj\Debug\guess_number.exe
+c:\users\hossein\documents\visual studio 2013\Projects\uni\guess_number\guess_number\obj\Debug\guess_number.pdb
